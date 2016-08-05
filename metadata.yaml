@@ -1,0 +1,35 @@
+_repo: Mogens-and-Other-Stories_6765
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Grabow, Anna
+    gutenberg_agent_id: '2194'
+    url: http://www.gutenberg.org/2009/agents/2194
+creator:
+  author:
+    agent_name: Jacobsen, J. P. (Jens Peter)
+    alias: Jacobsen, Jens Peter
+    birthdate: 1847
+    deathdate: 1885
+    gutenberg_agent_id: '2193'
+    url: http://www.gutenberg.org/2009/agents/2193
+    wikipedia: http://en.wikipedia.org/wiki/Jens_Peter_Jacobsen
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Danish -- Translations into English'
+- !lcsh 'Jacobsen, J. P. (Jens Peter), 1847-1885 -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Denmark -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: Mogens -- The plague in Bergamo -- There should have been roses --
+  Mrs. Fönss.
+title: Mogens and Other Stories
+url: http://www.gutenberg.org/ebooks/6765
